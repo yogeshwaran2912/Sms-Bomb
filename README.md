@@ -54,7 +54,7 @@ pkg install git wget python -y
 ```
 Clone the repository
 ```bash
-git clone https://github.com/samay825/Sms-Bomb
+git clone https://github.com/yogeshwaran2912/Sms-Bomb
 ```
 Go to the Sms-Bomb directory
 ```bash
@@ -98,4 +98,5 @@ Apache 2.0 © Samay825
 
 * `All updates of Team Sincryption will be posted here !`
 * `Link : https://t.me/TeamSincryption`
+
 
